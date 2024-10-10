@@ -17,7 +17,7 @@ Accenture has embarked on a 3-month pilot with Social Buzz to tackle the followi
 1. **Big Data Audit**: Conduct a thorough audit of Social Buzz’s data practices, sharing best practices for managing their vast and complex data.
 2. **IPO Guidance**: Leverage our deep expertise to provide strategic guidance for a successful Initial Public Offering (IPO).
 3. **Content Insights**: Analyze data from the platform to identify the top 5 most popular content categories based on engagement.
-4. **Content Insights**: Analyze data from the 7 provided tables: Profile, Location, User, Session, Content, Reaction, Reaction Type.
+4. **Dataset**: Analyze data from the 7 provided tables: Profile, Location, User, Session, Content, Reaction, Reaction Type.
 
 **Note**: The data analysis focused on 3 key tables: **Content**, **Reaction**, and **Reaction Type**.
 
